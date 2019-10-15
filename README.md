@@ -1,3 +1,4 @@
+# Run:
 1. Clean blockchain data:
 
 `sh clean3.sh`
@@ -7,7 +8,7 @@
 `sh run_chain.sh`
 
 
-#POA accounts (unlocked):
+## Unlocked and prefunded accounts:
 
 1. `0xb47f736b9b15dcc888ab790c38a6ad930217cbee`
 
@@ -19,6 +20,6 @@ Private key:
 
 3. `0x3833067356d624e36fa8cfaf208e97263f3e0703`
 
-# Open ports:
+## Open ports:
 1. RPC `127.0.0.1:8545`
 2. Websockets `127.0.0.1:8546`
