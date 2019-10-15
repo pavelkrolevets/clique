@@ -2,18 +2,9 @@
 
 `sh clean3.sh`
 
-2. Run a bootnode:
+2. Run nodes (bootnode and 3 nodes will run in separate tmux seesions):
 
-`./bootnode -nodekey boot.key -verbosity 9 -addr :30310`
-
-
-3. Run nodes (can be in tmux):
-
-`sh run1.sh`
- 
-`sh run2.sh`
-
-`sh run3.sh`
+`sh run_chain.sh`
 
 
 POA accounts (unlocked):
