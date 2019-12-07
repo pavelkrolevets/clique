@@ -3,10 +3,18 @@
 
 `sh clean3.sh`
 
-2. Run nodes (bootnode and 3 nodes will run in separate tmux seesions):
+2. Run 1 bootnode and 3 nodes in tmux (bootnode and 3 nodes will run in separate tmux seesions):
 
 `sh run_chain.sh`
 
+3. To see a node tmux session run:
+`tmux a -t node1`
+`tmux a -t node2`
+`tmux a -t node3`
+`tmux a -t bootnode`
+
+4. Stop nodes and kill created tmux sessions run:
+`sh kill_chain.sh`
 
 ## Unlocked and prefunded accounts:
 
