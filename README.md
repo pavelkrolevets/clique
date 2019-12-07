@@ -1,8 +1,18 @@
 # Preliminary:
 
-Compile and copy `geth` and `bootnode` binaries to the root directory. Instructions are [here](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac)
+### tmux
 
-### Building Geth and Bootnode (command line client):
+Instructions are [here](https://github.com/tmux/tmux)
+
+For OSX run:
+
+```
+brew install tmux
+```
+
+### Build Geth and Bootnode (command line client):
+
+Compile and copy `geth` and `bootnode` binaries to the root directory. Instructions are [here](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac)
 
 Clone the repository to a directory of your choosing:
 
