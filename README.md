@@ -1,4 +1,6 @@
-# Preliminary:
+# Easy private Etherium Proof-Of-Authoriry blockchain 
+
+## Preliminary:
 
 ### tmux
 
@@ -38,7 +40,7 @@ You can now find binary files in `build/bin/geth` to start your node.
 Copy `geth` and `bootnode` to `clique` folder.
 
 
-# Run:
+## Run:
 1. Clean blockchain data:
 
 ```
