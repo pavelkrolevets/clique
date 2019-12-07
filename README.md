@@ -56,14 +56,16 @@ sh run_chain.sh
 ```
 tmux ls
 ```
-To attach to a tmux node session, ru:
+To attach to a tmux node session, run:
 
 ```
 tmux a -t node1
 ```
 4. To stop all nodes and kill created tmux sessions run:
 
-`sh kill_chain.sh`
+```
+sh kill_chain.sh
+```
 
 To change chain parameters please edit `genesis.json`. You can set there block time and prefunded accounts. 
 
