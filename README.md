@@ -1,4 +1,4 @@
-# Easy private Etherium Proof-Of-Authoriry blockchain 
+# Etherium Proof-Of-Authoriry blockchain 
 
 ## Preliminary:
 
